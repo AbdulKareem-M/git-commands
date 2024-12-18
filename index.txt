@@ -1,0 +1,7 @@
+git clone <url> - clones the repository in git to our local repository
+git status - to check whether git has initialized in the current directory
+git add <filename> - adds the file <filename> to the staging area(to be committed and pushed later)
+git add . - adds all the file in the directory to the staging area
+git commit -m "message" - to commit that it has been tracked by git
+git push -u origin main - to push the committed file to the local workspace 
+git init - to initialize git in a folder
